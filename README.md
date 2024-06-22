@@ -1,6 +1,6 @@
 # LLM Zoomcamp 
 <p align="center">
-  <img src="images/llm-zoomcamp.jpg"  />
+  <img src="https://github.com/DataTalksClub/llm-zoomcamp/raw/main/images/llm-zoomcamp.jpg"  />
 </p>
 
 
