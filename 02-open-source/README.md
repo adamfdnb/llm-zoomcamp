@@ -201,7 +201,7 @@ use [this material](https://github.com/DataTalksClub/project-of-the-week/blob/ma
 from [our repository with projects of the week](https://github.com/DataTalksClub/project-of-the-week/tree/main).
 
 # 2.1.0 Homework
-More information [here](../cohorts/2024/02-open-source/homework.md).
+More information [here](https://github.com/DataTalksClub/llm-zoomcamp/blob/main/cohorts/2024/02-open-source/homework.md).
 
 # Notes
 
