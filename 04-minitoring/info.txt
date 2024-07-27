@@ -1,0 +1,35 @@
+
+def rag(q):
+    search_results = search(q)
+    prompt = build_prompt(q, search_results)
+    answer = llm(prompt)
+    return answer
+
+evaluating retrieval
+
+- hitrate
+- mrr (mean reciprocal rank)
+
+evaluation
+
+    - offline evaluation
+        - cosine similarity
+        - LLM as a judge
+
+
+grouth truth dataset
+
+answer_original -> question -> answer_llm
+cosine(answer_original, answer_llm)
+
+llm_as_a_judge(question, answer_llm)
+
+- online evaluation
+    - A/B tests, experiments
+    - user feedback
+
+- monitoring 
+    - overall health of the system
+    - how good the answer is
+
+
