@@ -12,6 +12,7 @@ services:
       - "9300:9300"
     volumes:
       - elasticsearch_data:/usr/share/elasticsearch/data
+      # - /workspaces/llm-zoomcamp/elasticsearch_data:/usr/share/elasticsearch/data
 
   ollama:
     image: ollama/ollama
